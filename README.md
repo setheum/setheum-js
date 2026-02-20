@@ -1,3 +1,6 @@
+> [!CAUTION]
+> setheum-js has been moved into the [`setheum` monorepo](https://github.com/setheum/setheum).
+
 ![license](https://img.shields.io/badge/License-Apache%202.0-blue?logo=apache&style=flat-square)
 [![npm](https://img.shields.io/npm/v/@setheum.js/api?logo=npm&style=flat-square)](https://www.npmjs.com/package/@setheum.js/api)
 
